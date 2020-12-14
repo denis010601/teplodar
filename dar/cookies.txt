@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tepla-dar.ru	TRUE	/	FALSE	1999999999	PHPSESSID	c1a54243b401e632673782c495b677b3
+.mail.ru	TRUE	/	FALSE	1999999999	FTID	2mEssY13Yan_:1607936319:0:::
+tepla-dar.ru	TRUE	/	FALSE	1999999999	rid	104715
+

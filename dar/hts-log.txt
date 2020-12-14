@@ -1,0 +1,43 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 14 Dec 2020 12:58:07 at https://tepla-dar.ru/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" https://tepla-dar.ru/ -O1 "C:\Users\tairo\Desktop\site\dar" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:02:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://tepla-dar.ru/js/chart.min.js
+13:02:16	Error: 	"Not Found" (404) at link https://tepla-dar.ru/img/share.svg (from https://tepla-dar.ru/)
+13:02:16	Error: 	"Not Found" (404) at link https://tepla-dar.ru/img/nul.png (from https://tepla-dar.ru/)
+13:02:16	Error: 	"Not Found" (404) at link https://tepla-dar.ru/i/loader.gif (from https://tepla-dar.ru/)
+13:02:16	Warning: 	Retry after error -4 (Incorrect length (4079235 Bytes, 8463070 expected)) at link https://tepla-dar.ru/fonts/icomoon.svg?d438at (from https://tepla-dar.ru/)
+13:02:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://tepla-dar.ru/js/ion.rangeSlider.min.js
+13:02:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://tepla-dar.ru/js/lazyload.min.js
+13:02:38	Warning: 	HTML file (1191868 bytes) retransferred due to lack of cache: https://tepla-dar.ru/?personal_data=1
+13:02:51	Warning: 	Retry after error -4 (Connect Error) at link https://tepla-dar.ru/js/swipe.js (from https://tepla-dar.ru/)
+13:02:51	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://tepla-dar.ru/js/mask.min.js (from https://tepla-dar.ru/)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/; path=/ (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_comments.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_recommended.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_post.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_like.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/al_widget_poll.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_app.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_community.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_auth.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_subscribe.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_contactus.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_bookmarks.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_playlist.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/ads_rotate.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/web/ads_light.js? (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_allow_messages_from_community.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_article.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_podcast.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/widget_community_messages.php (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/blank.php? (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://vk.com/js/api/openapi_update.js? (from https://vk.com/js/api/openapi.js?168)
+13:02:55	Error: 	"Not Found" (404) at link https://tepla-dar.ru/api/openapi.js (from https://vk.com/js/api/openapi.js?168)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 48 seconds : 76 links scanned, 64 files written (20705015 bytes overall) [21172231 bytes received at 73514 bytes/sec], 4260354 bytes transferred using HTTP compression in 40 files, ratio 22%, 2.1 requests per connection
+(25 errors, 7 warnings, 0 messages)
